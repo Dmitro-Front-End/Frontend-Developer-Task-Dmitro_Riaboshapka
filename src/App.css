@@ -1,0 +1,40 @@
+.App {
+  text-align: center;
+}
+
+
+
+
+
+/* my */
+.dropMenu-c {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.elem-c {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  cursor: pointer;
+
+
+  border: 1px solid black;
+
+  width: 98%;
+  max-width: 300px;
+
+}
+.elem-c p {}
+.elem-c span {}
+
+/* calculate */
+.calculate-g {
+  display: flex;
+}
+.calculate-c {
+  border: 1px solid black;
+  padding: 5px;
+  display: flex;
+}
+/* .calculate-c { */
